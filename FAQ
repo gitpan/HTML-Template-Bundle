@@ -1,0 +1,26 @@
+FREQUENTLY ASKED QUESTIONS
+
+To stave off some general questions, here is a FAQ...
+
+1 Q. Why bundle everything.
+  A. To make the install easier, by installing a single package.
+
+2 Q. Why the enhancements to the code H::T module?
+  A. The most requested features have been merged in, such as support for
+     TMPL_ELSIF and the ability to sub-class.
+
+3 Q. What not just update HTML::Template and HTML::Template::Expr?
+  A. Some features require modification to the underlying library, while
+     others can be implemented elsewhere, thus providing some seperation
+     or core-logic from enhancements.
+
+4 Q. What about other templating packages?
+  A. You make your own choices... this package is based on what I wanted
+     from H::T, without having to install Template::Toolkit.
+
+5 Q. What not merge upstream?
+  A. The community has made enhancement requests on numerous occasions.
+     Since H::T core functionality does most of what is needed, it really
+     is up to the core maintainer to accept patches.  In the interim,
+     this package provides some of those features.
+

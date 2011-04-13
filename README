@@ -1,0 +1,68 @@
+
+         HTML::Template bundle
+
+CHANGES
+
+2.9_01
+   - Sync up with HTML::Template 2.9 and H::T::Expr 0.07
+   - Add support for subclassing H::T and H::T::E.
+   - Add TMPL_ELSIF
+   - Add TMPL_SET
+   - Add support for <TMPL_INCLUDE <TMPL_VAR blah>>
+   - Generate output to sref
+   - .... and so on....
+
+DESCRIPTION
+
+This module combines the HTML::Template and HTML::Template::Expr
+module, plus a few other goodies, into a single installable Perl.
+
+There are too many individual enhancements to list here; look in
+the doc's for more info.
+
+
+DOCUMENTATION
+
+The documentation is POD format for each of the sub-modules.  Its
+also probably a good idea to read the other README's...
+
+
+INSTALLATION
+
+In case this is your first module, the usual methods are:
+
+        perl Makefile.PL
+        make
+        make test
+        make install
+
+CONTACT INFO
+
+You can join the HTML::Template mailing-list.
+
+LICENSE
+
+HTML::Template : A module for using HTML Templates with Perl
+Copyright (C) 2000 Sam Tregar (sam@tregar.com)
+
+This module is free software; you can redistribute it and/or modify it
+under the terms of either:
+
+a) the GNU General Public License as published by the Free Software
+Foundation; either version 1, or (at your option) any later version,
+or
+
+b) the "Artistic License" which comes with this module.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See either
+the GNU General Public License or the Artistic License for more details.
+
+You should have received a copy of the Artistic License with this
+module, in the file ARTISTIC.  If not, I'll be glad to provide one.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+USA

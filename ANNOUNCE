@@ -1,0 +1,28 @@
+ANNOUNCEMENT: HTML::Template::Bundle
+
+CHANGES
+
+    - First release 2.9_01
+
+DESCRIPTION
+
+    This package is un update/polish of the existing HTML::Template module
+    to include a some extra features like those provided by end-users.
+
+    This module is licensed under the GPL. See the LICENSE section below for
+    more details.
+
+AVAILABILITY
+
+    The module is also available on CPAN.  Search for it at:
+
+       http://search.cpan.org
+
+CONTACT INFO
+
+    mathew@users.sf.net
+
+    HTML::Template discussion forum at:
+
+      http://lists.sourceforge.net/lists/listinfo/html-template-users
+
